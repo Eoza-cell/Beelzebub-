@@ -1,0 +1,6 @@
+{
+  "name": "Beelzebub AI Chat RP",
+  "description": "Un jeu de rôle interactif avec IA se déroulant dans l'univers de l'animé Beelzebub.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
